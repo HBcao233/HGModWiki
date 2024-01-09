@@ -1,0 +1,1 @@
+import{aw as a,p as e,m as t,aN as o}from"./chunks/framework.iUIbX1we.js";const u=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"小工具/JSON快速制作器.md","filePath":"小工具/JSON快速制作器.md"}'),r={name:"小工具/JSON快速制作器.md"},s=o("",4),n=[s];function i(_,c,h,d,l,m){return t(),e("div",null,n)}const f=a(r,[["render",i]]);export{u as __pageData,f as default};
